@@ -47,11 +47,9 @@
 ---
 
 ## Section 5: Discussion
-*The first three questions are compulsory for all students. Graduate students must also answer the fourth question.*
 - **Which search algorithm is best for this route finding problem?** 
     [Write your answer here]
 - **Search Efficiency (Nodes expanded/time taken comparison):** [Write your answer here comparing search efficiency in terms of number of nodes visited and runtime across different algorithms]
 - **Link the idea of search algorithm to today Generative AI.** 
     [Write your answer here]
-- **(Graduate Students Only) Compare the performance of A* Search against Memory-bounded A* Search and discuss the trade-offs between them.** 
-    [Write your answer here]
+
