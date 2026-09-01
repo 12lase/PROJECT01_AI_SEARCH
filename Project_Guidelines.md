@@ -141,7 +141,13 @@ Complete all required sections in [report.md](report.md).
 **Note**: This section is manually graded.
 - **Live Deployment (5 marks):** The submitted URL is publicly accessible and the application loads successfully.
 - **Application Correctness (15 marks):** The web application correctly supports source/destination selection, executes all six (**seven** for graduate students) search algorithms, and displays the resulting paths and algorithm concept notes.
-- **Video Presentation (10 marks):** The 5–7 minute presentation clearly demonstrates the application and effectively explains the student's learning points.
+- **Video Presentation (10 marks):** The 5–7 minute presentation clearly demonstrates the application and explains how the project implementation represents the problem formulation. As part of the demonstration, address the following:
+    - State Space: What represents a state in your project? Approximately how many states are in your generated graph?
+    - Initial State & Goal State: In your application, how are the initial state and goal state determined from the user’s selections?
+    - Actions & Transition Model: What data structure in your implementation represents the possible actions/transitions from one state to another? Show an example from your generated graph/data.
+    - Path Cost: What value represents the cost of moving between two states? Where does this value come from, and how is it stored in your graph?
+    - Abstraction: What information from the real-world road network did you keep in your graph, and what information did you leave out?
+    - Completeness & Optimality: Based on your implementation and generated graph, which of your search algorithms are complete, and which are optimal? Demonstrate one source–destination example from your application and use the returned paths and path costs to support your answer. 
 
 ### 4. Writing Assignment: Completeness and Optimality Analysis (20 marks)
 **Graduate Students Only**
