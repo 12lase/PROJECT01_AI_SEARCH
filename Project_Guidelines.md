@@ -13,6 +13,11 @@
 
 > **Required:** Your declaration must accurately reflect how you used AI tools for this project.
 
+### Code Resources
+You can refer or copy the codes from the following resources:
+1. Deployment Starter: [Deployment Starter](https://github.com/CS411-MTD/Project01_Test_Student)
+2. Reference Code from [AI: A Modern Approach](https://github.com/aimacode)
+
 ## Project Overview: Intelligent Search Visualizer
 
 In this assignment, you will implement, configure, and deploy an interactive map-based search visualizer for **a USA-based region (e.g., a state or specific metropolitan area in the USA)**. You are required to implement six search algorithms, API data-fetching logic, and the web backend.
